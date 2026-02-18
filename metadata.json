@@ -1,0 +1,7 @@
+{
+  "name": "OTODROP CS2 Casino",
+  "description": "A high-performance CS2 case opening and skin upgrade platform featuring AI-powered market insights and high-fidelity gaming UI/UX.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
